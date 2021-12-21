@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Password Generator
+# Purpose:     Fun
+#
+# Author:      nicolescu
+#
+# Created:     7/11/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 import random
 
 letters = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
